@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,8,15,20,24&height=220&section=header&text=Rodrigo%20Viana%20Quirino&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Arquiteto%20de%20Software%20%C2%B7%20L%C3%ADder%20T%C3%A9cnico%20%C2%B7%20Backend%20Java&descSize=17&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,8,15,20,24&height=220&section=header&text=Rodrigo%20Viana%20Quirino&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cientista%20da%20Computa%C3%A7%C3%A3o&descSize=17&descAlignY=58&descAlign=50"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=F87171&center=true&vCenter=true&multiline=true&repeat=false&width=520&lines=Microsservi%C3%A7os+%26+Sistemas+Financeiros;Spring+Boot+%C2%B7+APIs+REST+%C2%B7+Cloud;Compiladores+%26+Algoritmos" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=F87171&center=true&vCenter=true&multiline=true&repeat=false&width=520&lines=Algoritmos+%26+Estruturas+de+Dados;Arquitetura+de+Software;Compiladores+%26+Backend" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -16,11 +16,11 @@
 
 <br/>
 
-Arquiteto na **Suit Pay**, com **4+ anos** liderando e construindo sistemas em fintech, governo e indústria — microsserviços, integrações financeiras, APIs REST e sustentação em produção.
+**Cientista da Computação** — PUC Goiás (2019–2026). Interesse em arquitetura de software, algoritmos, compiladores e engenharia backend.
 
 ---
 
-## Carreira
+## Experiência
 
 | Empresa | Cargo | Período |
 |---------|-------|---------|
@@ -37,7 +37,7 @@ Arquiteto na **Suit Pay**, com **4+ anos** liderando e construindo sistemas em f
 
 **PUC Goiás — Monitor de Algoritmos** — Apoio acadêmico em algoritmos e lógica de programação em C/C++, orientação de dúvidas, preparação de alunos para maratonas de programação.
 
-Formação: **Bacharelado em Ciência da Computação** — PUC Goiás (2019–2026) · 🇧🇷 Português nativo · 🇺🇸 Inglês fluente
+🇧🇷 Português nativo · 🇺🇸 Inglês fluente
 
 ---
 
@@ -109,5 +109,5 @@ Java · Spring Boot · Spring Security · OAuth2 · JWT · JPA · Hibernate · P
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=50&section=footer&fontSize=14&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,8,15,20,24&height=50&section=footer&fontSize=14&fontColor=fff&animation=twinkling"/>
 </div>
