@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Rodrigo%20Viana%20Quirino&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Arquiteto%20de%20Software%20%C2%B7%20L%C3%ADder%20T%C3%A9cnico%20%C2%B7%20Backend%20Java&descSize=17&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,8,15,20,24&height=220&section=header&text=Rodrigo%20Viana%20Quirino&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Arquiteto%20de%20Software%20%C2%B7%20L%C3%ADder%20T%C3%A9cnico%20%C2%B7%20Backend%20Java&descSize=17&descAlignY=58&descAlign=50"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=6DB33F&center=true&vCenter=true&multiline=true&repeat=false&width=520&lines=Microsservi%C3%A7os+%26+Sistemas+Financeiros;Spring+Boot+%C2%B7+APIs+REST+%C2%B7+Cloud;Compiladores+%26+Algoritmos" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=F87171&center=true&vCenter=true&multiline=true&repeat=false&width=520&lines=Microsservi%C3%A7os+%26+Sistemas+Financeiros;Spring+Boot+%C2%B7+APIs+REST+%C2%B7+Cloud;Compiladores+%26+Algoritmos" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -105,3 +105,9 @@ Java · Spring Boot · Spring Security · OAuth2 · JWT · JPA · Hibernate · P
 | [rv-consultoria-ti](https://github.com/rodviana/rv-consultoria-ti) | Site consultoria (TypeScript) |
 
 </details>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=50&section=footer&fontSize=14&fontColor=fff&animation=twinkling"/>
+</div>
