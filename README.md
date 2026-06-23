@@ -1,106 +1,56 @@
-<h1 align="center">Olá, eu sou Rodrigo 👋</h1>
+# Rodrigo Viana Quirino
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Arquiteto+de+Software;L%C3%ADder+T%C3%A9cnico+%7C+Backend+Java;Microsservi%C3%A7os+%26+Sistemas+Financeiros;Compiladores+%26+Algoritmos" alt="Typing SVG" />
-</p>
+**Arquiteto de Software · Líder Técnico · Backend Java**
 
-<p align="center">
-  <a href="mailto:rodrigovianaquirino@gmail.com"><img src="https://img.shields.io/badge/Email-rodrigovianaquirino@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/rodviana"><img src="https://img.shields.io/badge/GitHub-rodviana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Localização-Goiás,_Brasil-2EA44F?style=for-the-badge" alt="Location"/>
-</p>
+Arquiteto na **Suit Pay**, com **4+ anos** liderando e construindo sistemas em fintech, governo e indústria — microsserviços, integrações financeiras, APIs REST e sustentação em produção.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experiência-4%2B_anos_profissionais-007396?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cargo-Arquiteto_de_Software-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Empresa_atual-Suit_Pay-FF6B00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Formação-CC_@_PUC_Goiás-1E3A8A?style=for-the-badge"/>
-</p>
+[rodrigovianaquirino@gmail.com](mailto:rodrigovianaquirino@gmail.com) · [github.com/rodviana](https://github.com/rodviana) · Goiás, Brasil
 
 ---
 
-### 👨‍💻 Sobre mim
-
-```yaml
-nome: Rodrigo Viana Quirino
-cargo: Arquiteto de Software / Líder Técnico
-empresa: Suit Pay — sistemas financeiros e pagamentos
-experiencia: 4+ anos (fintech · governo · indústria)
-formacao: Bacharelado em Ciência da Computação — PUC Goiás
-foco: Java · Spring Boot · microsserviços · APIs REST · arquitetura distribuída
-historico_git: GitLab corporativo na carreira — portfólio migrado para GitHub
-idiomas: [Português nativo, Inglês fluente]
-```
-
-> A maior parte do meu código profissional vive em **GitLab privado** (governo e empresas). Este GitHub concentra **projetos open source, acadêmicos e pessoais** — não reflete todo o volume da carreira, e tudo bem.
-
----
-
-### 🔭 Agora
-
-- 🏗️ Arquitetura e modernização de **microsserviços financeiros** na Suit Pay
-- 📦 Organizando e documentando o **portfólio PUC** (`puc-*`) e projetos pessoais
-- 🧠 Evoluindo o compilador **[Brasilang](https://github.com/rodviana/brasilang)**
-
----
-
-### 🛠️ Tech stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,docker,aws,postgres,mysql,git,linux,vue,react,ts,maven,idea,hibernate&perline=8" alt="Skills"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-</p>
-
----
-
-### ⭐ Projetos em destaque
-
-| | Repositório | O que é | Stack |
-|:---:|-------------|---------|-------|
-| 🚗 | [**partiu**](https://github.com/rodviana/partiu) · [`develop`](https://github.com/rodviana/partiu/tree/develop) | Gestão de **desmanche** — veículos, sucatas e peças | Java · Spring Boot · Thymeleaf |
-| 🇧🇷 | [**brasilang**](https://github.com/rodviana/brasilang) | **Compilador** completo — léxica → código C | Java 21 · Spring Boot |
-| 🤖 | [**puc-inteligencia-artificial**](https://github.com/rodviana/puc-inteligencia-artificial) | Regressão, **SVM**, PCA/eigenfaces | Python · scikit-learn |
-| ⚙️ | [**puc-compiladores**](https://github.com/rodviana/puc-compiladores) | Mini-compilador (lexer, parser, AST) | Python · Jupyter |
-| 🏭 | [**puc-tecnologias-construcao-software**](https://github.com/rodviana/puc-tecnologias-construcao-software) | **Padrões de Projeto** (GoF) | Spring Boot |
-| 📐 | [**puc-projeto-analise-algoritmos**](https://github.com/rodviana/puc-projeto-analise-algoritmos) | Algoritmos e complexidade | Java · C++ |
-
----
-
-### 💼 Experiência
+## Carreira
 
 | Empresa | Cargo | Período |
 |---------|-------|---------|
-| **Suit Pay** | Arquiteto de Software / Líder Técnico | mai/2025 — atual |
+| [**Suit Pay**](https://github.com/rodviana) | Arquiteto de Software / Líder Técnico | mai/2025 — atual |
 | **Secretaria da Economia (GO)** | Desenvolvedor de Software | mar/2022 — mai/2025 |
 | **Coca-Cola** | Analista de Sistemas / Backend | jul/2021 — mar/2022 |
 | **PUC Goiás** | Monitor de Algoritmos | ago/2020 — dez/2020 |
 
-<details>
-<summary><b>Ver detalhes das experiências</b></summary>
+**Suit Pay** — Arquitetura e modernização de sistemas financeiros: microsserviços, gateways de pagamento, integrações, cloud, segurança, code review e liderança técnica do time.
 
-**Suit Pay** — arquitetura de microsserviços financeiros, gateways de pagamento, integrações, cloud, segurança e liderança técnica.
+**Governo de Goiás** — Transformação digital de sistemas tributários: PAT-e, SISIMP, NFG, CCE, ITCD e integrações entre plataformas governamentais.
 
-**Governo de Goiás** — PAT-e, SISIMP, NFG, CCE, ITCD e sistemas tributários em transformação digital.
+**Coca-Cola** — Sustentação e modernização de sistemas corporativos: integrações SAP ↔ Oracle, microsserviços e automação de cargas de dados.
 
-**Coca-Cola** — integrações SAP ↔ Oracle, microsserviços e automação de cargas de dados.
-
-</details>
+Formação: **Bacharelado em Ciência da Computação** — PUC Goiás (2019–2025) · 🇧🇷 Português nativo · 🇺🇸 Inglês fluente
 
 ---
 
-### 🎓 Portfólio acadêmico (PUC Goiás)
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,docker,aws,postgres,mysql,git,linux,vue,react,ts,maven,idea&perline=9" alt="Skills"/>
+</p>
+
+Java · Spring Boot · Spring Security · OAuth2 · JWT · JPA · Hibernate · PostgreSQL · Oracle · SQL Server · Docker · AWS · CI/CD · Vue · React · TypeScript
+
+---
+
+### Projetos em destaque
+
+| Repositório | O que é | Stack |
+|-------------|---------|-------|
+| [**partiu**](https://github.com/rodviana/partiu) · [`develop`](https://github.com/rodviana/partiu/tree/develop) | Gestão de desmanche — veículos, sucatas e peças | Java · Spring Boot · Thymeleaf |
+| [**brasilang**](https://github.com/rodviana/brasilang) | Compilador completo — léxica → código C | Java 21 · Spring Boot |
+| [**puc-inteligencia-artificial**](https://github.com/rodviana/puc-inteligencia-artificial) | Regressão, SVM, PCA/eigenfaces | Python · scikit-learn |
+| [**puc-compiladores**](https://github.com/rodviana/puc-compiladores) | Mini-compilador (lexer, parser, AST) | Python · Jupyter |
+| [**puc-tecnologias-construcao-software**](https://github.com/rodviana/puc-tecnologias-construcao-software) | Padrões de Projeto (GoF) | Spring Boot |
+| [**puc-projeto-analise-algoritmos**](https://github.com/rodviana/puc-projeto-analise-algoritmos) | Algoritmos e complexidade | Java · C++ |
+
+---
+
+### Portfólio acadêmico (PUC Goiás)
 
 16 repositórios — um por disciplina, do assembly MIPS a Spring Boot.
 
@@ -141,13 +91,3 @@ idiomas: [Português nativo, Inglês fluente]
 | [rv-consultoria-ti](https://github.com/rodviana/rv-consultoria-ti) | Site consultoria (TypeScript) |
 
 </details>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rodviana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <i>🇧🇷 Português (nativo) · 🇺🇸 Inglês (fluente)</i>
-</p>
