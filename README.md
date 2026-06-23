@@ -53,23 +53,14 @@ Java · Spring Boot · Spring Security · OAuth2 · JWT · JPA · Hibernate · P
 
 ### Projetos em destaque
 
-**Backend · Compiladores · Algoritmos**
-
 | Repositório | O que é | Stack |
 |-------------|---------|-------|
 | [**partiu**](https://github.com/rodviana/partiu) · [`develop`](https://github.com/rodviana/partiu/tree/develop) | Gestão de desmanche — veículos, sucatas e peças | Java · Spring Boot · Thymeleaf |
 | [**brasilang**](https://github.com/rodviana/brasilang) | Compilador completo — léxica → código C | Java 21 · Spring Boot |
 | [**puc-tecnologias-construcao-software**](https://github.com/rodviana/puc-tecnologias-construcao-software) | Padrões de Projeto (GoF) | Spring Boot |
 | [**puc-projeto-analise-algoritmos**](https://github.com/rodviana/puc-projeto-analise-algoritmos) | Algoritmos e complexidade | Java · C++ |
-
-**Gráficos & processamento de imagens**
-
-| Repositório | O que é | Stack |
-|-------------|---------|-------|
-| [**puc-computacao-grafica**](https://github.com/rodviana/puc-computacao-grafica) | CG 2D, animação, curvas de Bézier, **JDIP** (filtros de imagem) | Java · JavaScript |
-| [**puc-inteligencia-artificial**](https://github.com/rodviana/puc-inteligencia-artificial) | **PCA / eigenfaces** — reconhecimento facial e PDI | Python · scikit-learn · OpenCV |
-
-> **JDIP** (`puc-computacao-grafica/JavaExamples-main/JDIP`) — aplicação de filtros de processamento digital de imagem. **Eigenfaces** (`puc-inteligencia-artificial/aed3`) — redução de dimensionalidade aplicada a faces.
+| [**puc-computacao-grafica**](https://github.com/rodviana/puc-computacao-grafica) | Computação gráfica 2D, animação, Bézier e **JDIP** (filtros de processamento digital de imagem) | Java · JavaScript |
+| [**puc-inteligencia-artificial**](https://github.com/rodviana/puc-inteligencia-artificial) | IA com **PCA / eigenfaces** — processamento digital de imagens e reconhecimento facial | Python · scikit-learn · OpenCV |
 
 ---
 
