@@ -24,7 +24,7 @@
 
 | Empresa | Cargo | Período |
 |---------|-------|---------|
-| [**Suit Pay**](https://github.com/rodviana) | Arquiteto de Software / Líder Técnico | mai/2025 — atual |
+| **Suit Pay** | Arquiteto de Software / Líder Técnico | mai/2025 — atual |
 | **Secretaria da Economia (GO)** | Desenvolvedor de Software | mar/2022 — mai/2025 |
 | **Coca-Cola** | Analista de Sistemas / Backend | jul/2021 — mar/2022 |
 | **PUC Goiás** | Monitor de Algoritmos | ago/2020 — dez/2020 |
