@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=F87171&center=true&vCenter=true&multiline=true&repeat=false&width=520&lines=Algoritmos+%26+Estruturas+de+Dados;Arquitetura+de+Software;Compiladores+%26+Backend" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=F87171&center=true&vCenter=true&multiline=true&repeat=false&width=520&lines=Algoritmos+%26+Estruturas+de+Dados;Compiladores+%26+Arquitetura;Gr%C3%A1ficos+%26+Processamento+de+Imagens" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-**Cientista da Computação** — PUC Goiás (2019–2026). Interesse em arquitetura de software, algoritmos, compiladores e engenharia backend.
+**Cientista da Computação** — PUC Goiás (2019–2026). Interesse em arquitetura de software, algoritmos, compiladores, engenharia backend, **computação gráfica** e **processamento digital de imagens**.
 
 ---
 
@@ -53,14 +53,23 @@ Java · Spring Boot · Spring Security · OAuth2 · JWT · JPA · Hibernate · P
 
 ### Projetos em destaque
 
+**Backend · Compiladores · Algoritmos**
+
 | Repositório | O que é | Stack |
 |-------------|---------|-------|
 | [**partiu**](https://github.com/rodviana/partiu) · [`develop`](https://github.com/rodviana/partiu/tree/develop) | Gestão de desmanche — veículos, sucatas e peças | Java · Spring Boot · Thymeleaf |
 | [**brasilang**](https://github.com/rodviana/brasilang) | Compilador completo — léxica → código C | Java 21 · Spring Boot |
-| [**puc-inteligencia-artificial**](https://github.com/rodviana/puc-inteligencia-artificial) | Regressão, SVM, PCA/eigenfaces | Python · scikit-learn |
-| [**puc-compiladores**](https://github.com/rodviana/puc-compiladores) | Mini-compilador (lexer, parser, AST) | Python · Jupyter |
 | [**puc-tecnologias-construcao-software**](https://github.com/rodviana/puc-tecnologias-construcao-software) | Padrões de Projeto (GoF) | Spring Boot |
 | [**puc-projeto-analise-algoritmos**](https://github.com/rodviana/puc-projeto-analise-algoritmos) | Algoritmos e complexidade | Java · C++ |
+
+**Gráficos & processamento de imagens**
+
+| Repositório | O que é | Stack |
+|-------------|---------|-------|
+| [**puc-computacao-grafica**](https://github.com/rodviana/puc-computacao-grafica) | CG 2D, animação, curvas de Bézier, **JDIP** (filtros de imagem) | Java · JavaScript |
+| [**puc-inteligencia-artificial**](https://github.com/rodviana/puc-inteligencia-artificial) | **PCA / eigenfaces** — reconhecimento facial e PDI | Python · scikit-learn · OpenCV |
+
+> **JDIP** (`puc-computacao-grafica/JavaExamples-main/JDIP`) — aplicação de filtros de processamento digital de imagem. **Eigenfaces** (`puc-inteligencia-artificial/aed3`) — redução de dimensionalidade aplicada a faces.
 
 ---
 
