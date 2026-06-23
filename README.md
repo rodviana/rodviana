@@ -1,34 +1,84 @@
-# Rodrigo Viana Quirino
+<h1 align="center">Olá, eu sou Rodrigo 👋</h1>
 
-**Arquiteto de Software** · **Líder Técnico** · **Backend Java**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Arquiteto+de+Software;L%C3%ADder+T%C3%A9cnico+%7C+Backend+Java;Microsservi%C3%A7os+%26+Sistemas+Financeiros;Compiladores+%26+Algoritmos" alt="Typing SVG" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-rodrigovianaquirino@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:rodrigovianaquirino@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rodviana-181717?logo=github)](https://github.com/rodviana)
+<p align="center">
+  <a href="mailto:rodrigovianaquirino@gmail.com"><img src="https://img.shields.io/badge/Email-rodrigovianaquirino@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/rodviana"><img src="https://img.shields.io/badge/GitHub-rodviana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Localização-Goiás,_Brasil-2EA44F?style=for-the-badge" alt="Location"/>
+</p>
 
-Arquitetura e evolução de **sistemas financeiros e corporativos** — microsserviços, integrações, APIs REST e sustentação em produção.
-
-**Atual:** Arquiteto de Software @ [Suit Pay](https://github.com/rodviana) · CC @ PUC Goiás
-
----
-
-## Destaques
-
-Projetos que melhor representam meu trabalho técnico:
-
-| Repositório | O que é | Stack |
-|-------------|---------|-------|
-| [**partiu**](https://github.com/rodviana/partiu) ([`develop`](https://github.com/rodviana/partiu/tree/develop)) | Sistema de gestão de **desmanche** — veículos, sucatas e peças reaproveitáveis | Java · Spring Boot · Thymeleaf · JPA |
-| [**brasilang**](https://github.com/rodviana/brasilang) | **Compilador** da linguagem Brasilang — léxica, sintaxe, semântica, otimização e tradução para C | Java 21 · Spring Boot |
-| [**puc-inteligencia-artificial**](https://github.com/rodviana/puc-inteligencia-artificial) | Atividades de IA — regressão, SVM, PCA/eigenfaces | Python · scikit-learn · Jupyter |
-| [**puc-compiladores**](https://github.com/rodviana/puc-compiladores) | Mini-compilador didático (lexer, parser, AST, codegen) | Python · Jupyter |
-| [**puc-tecnologias-construcao-software**](https://github.com/rodviana/puc-tecnologias-construcao-software) | Padrões de Projeto — Factory, Singleton, Builder, Adapter, Decorator, Proxy | Spring Boot |
-| [**puc-projeto-analise-algoritmos**](https://github.com/rodviana/puc-projeto-analise-algoritmos) | Algoritmos e análise de complexidade | Java · C++ |
-
-> **Partiu:** a branch **`develop`** contém o sistema completo (dashboard, CRUD, templates). A `master` é apenas o esqueleto inicial.
+<p align="center">
+  <img src="https://img.shields.io/badge/Experiência-4%2B_anos_profissionais-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cargo-Arquiteto_de_Software-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Empresa_atual-Suit_Pay-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Formação-CC_@_PUC_Goiás-1E3A8A?style=for-the-badge"/>
+</p>
 
 ---
 
-## Experiência
+### 👨‍💻 Sobre mim
+
+```yaml
+nome: Rodrigo Viana Quirino
+cargo: Arquiteto de Software / Líder Técnico
+empresa: Suit Pay — sistemas financeiros e pagamentos
+experiencia: 4+ anos (fintech · governo · indústria)
+formacao: Bacharelado em Ciência da Computação — PUC Goiás
+foco: Java · Spring Boot · microsserviços · APIs REST · arquitetura distribuída
+historico_git: GitLab corporativo na carreira — portfólio migrado para GitHub
+idiomas: [Português nativo, Inglês fluente]
+```
+
+> A maior parte do meu código profissional vive em **GitLab privado** (governo e empresas). Este GitHub concentra **projetos open source, acadêmicos e pessoais** — não reflete todo o volume da carreira, e tudo bem.
+
+---
+
+### 🔭 Agora
+
+- 🏗️ Arquitetura e modernização de **microsserviços financeiros** na Suit Pay
+- 📦 Organizando e documentando o **portfólio PUC** (`puc-*`) e projetos pessoais
+- 🧠 Evoluindo o compilador **[Brasilang](https://github.com/rodviana/brasilang)**
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,docker,aws,postgres,mysql,git,linux,vue,react,ts,maven,idea,hibernate&perline=8" alt="Skills"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+</p>
+
+---
+
+### ⭐ Projetos em destaque
+
+| | Repositório | O que é | Stack |
+|:---:|-------------|---------|-------|
+| 🚗 | [**partiu**](https://github.com/rodviana/partiu) · [`develop`](https://github.com/rodviana/partiu/tree/develop) | Gestão de **desmanche** — veículos, sucatas e peças | Java · Spring Boot · Thymeleaf |
+| 🇧🇷 | [**brasilang**](https://github.com/rodviana/brasilang) | **Compilador** completo — léxica → código C | Java 21 · Spring Boot |
+| 🤖 | [**puc-inteligencia-artificial**](https://github.com/rodviana/puc-inteligencia-artificial) | Regressão, **SVM**, PCA/eigenfaces | Python · scikit-learn |
+| ⚙️ | [**puc-compiladores**](https://github.com/rodviana/puc-compiladores) | Mini-compilador (lexer, parser, AST) | Python · Jupyter |
+| 🏭 | [**puc-tecnologias-construcao-software**](https://github.com/rodviana/puc-tecnologias-construcao-software) | **Padrões de Projeto** (GoF) | Spring Boot |
+| 📐 | [**puc-projeto-analise-algoritmos**](https://github.com/rodviana/puc-projeto-analise-algoritmos) | Algoritmos e complexidade | Java · C++ |
+
+---
+
+### 💼 Experiência
 
 | Empresa | Cargo | Período |
 |---------|-------|---------|
@@ -37,27 +87,29 @@ Projetos que melhor representam meu trabalho técnico:
 | **Coca-Cola** | Analista de Sistemas / Backend | jul/2021 — mar/2022 |
 | **PUC Goiás** | Monitor de Algoritmos | ago/2020 — dez/2020 |
 
+<details>
+<summary><b>Ver detalhes das experiências</b></summary>
+
+**Suit Pay** — arquitetura de microsserviços financeiros, gateways de pagamento, integrações, cloud, segurança e liderança técnica.
+
+**Governo de Goiás** — PAT-e, SISIMP, NFG, CCE, ITCD e sistemas tributários em transformação digital.
+
+**Coca-Cola** — integrações SAP ↔ Oracle, microsserviços e automação de cargas de dados.
+
+</details>
+
 ---
 
-## Stack
+### 🎓 Portfólio acadêmico (PUC Goiás)
 
-**Backend** · Java · Spring Boot · Spring Security · OAuth2 · JWT · JPA · APIs REST · Mensageria
+16 repositórios — um por disciplina, do assembly MIPS a Spring Boot.
 
-**Frontend** · Vue.js · React · Next.js · TypeScript · Thymeleaf
-
-**Dados & Infra** · PostgreSQL · Oracle · SQL Server · Docker · AWS · Linux · CI/CD
-
-**Compiladores & IA** · Brasilang · Python · scikit-learn · Jupyter
-
----
-
-## Portfólio acadêmico (PUC Goiás)
-
-Um repositório por disciplina — do assembly MIPS a Spring Boot.
+<details>
+<summary><b>📚 Ver todos os repositórios PUC</b></summary>
 
 | Repositório | Disciplina | Período | Stack |
 |-------------|------------|---------|-------|
-| [puc-arquitetura-computadores](https://github.com/rodviana/puc-arquitetura-computadores) | Arquitetura de Computadores | 3º | MIPS Assembly |
+| [puc-arquitetura-computadores](https://github.com/rodviana/puc-arquitetura-computadores) | Arquitetura de Computadores | 3º | MIPS |
 | [puc-estrutura-dados-1](https://github.com/rodviana/puc-estrutura-dados-1) | Estrutura de Dados 1 | 3º | C++/Qt |
 | [puc-tp2](https://github.com/rodviana/puc-tp2) | TP2 | 3º | C++/Qt OO |
 | [puc-fundamentos-3](https://github.com/rodviana/puc-fundamentos-3) | Fundamentos 3 | 3º | C++ |
@@ -71,45 +123,31 @@ Um repositório por disciplina — do assembly MIPS a Spring Boot.
 | [puc-tecnologias-construcao-software](https://github.com/rodviana/puc-tecnologias-construcao-software) | TCS | 6º | Spring Boot |
 | [puc-probabilidade-estatistica](https://github.com/rodviana/puc-probabilidade-estatistica) | Probabilidade | 6º | Python |
 | [puc-computacao-grafica](https://github.com/rodviana/puc-computacao-grafica) | Computação Gráfica | 7º | Java, JS |
-| [puc-inteligencia-artificial](https://github.com/rodviana/puc-inteligencia-artificial) | Inteligência Artificial | 9º | Python, Jupyter |
+| [puc-inteligencia-artificial](https://github.com/rodviana/puc-inteligencia-artificial) | Inteligência Artificial | 9º | Python |
 | [puc-compiladores](https://github.com/rodviana/puc-compiladores) | Compiladores | 12º | Python |
 
----
-
-## Outros repositórios
-
-| Repositório | Descrição |
-|-------------|-----------|
-| [gestao-oficina](https://github.com/rodviana/gestao-oficina) | Sistema de gestão de oficina (Java) |
-| [calculadora-ipv4](https://github.com/rodviana/calculadora-ipv4) | Calculadora de sub-redes IPv4 (Java) |
-| [minishell](https://github.com/rodviana/minishell) | Shell minimalista (Java) |
-| [Numero-Natural](https://github.com/rodviana/Numero-Natural) | Conjuntos numéricos com POO (C++) |
-| [Matriz](https://github.com/rodviana/Matriz) | Operações com matrizes (C++) |
-| [Paa_prova3](https://github.com/rodviana/Paa_prova3) | Prova de PAA (Java) |
-| [brasilang](https://github.com/rodviana/brasilang) | Compilador Brasilang — ver [Destaques](#destaques) |
-| [landing-page-nicole](https://github.com/rodviana/landing-page-nicole) | Landing page (HTML/CSS) |
-| [rv-consultoria-ti](https://github.com/rodviana/rv-consultoria-ti) | Site consultoria TI (TypeScript) |
-| [dia-dos-namorados](https://github.com/rodviana/dia-dos-namorados) | Projeto web (TypeScript) |
+</details>
 
 <details>
-<summary><b>Projetos Open Tibia / hobby</b></summary>
+<summary><b>📁 Outros repositórios</b></summary>
 
 | Repositório | Descrição |
 |-------------|-----------|
-| [canary](https://github.com/rodviana/canary) | Fork Canary Server 15.00 (Lua) |
-| [otclient](https://github.com/rodviana/otclient) | Cliente OT alternativo (C++/Lua) |
-| [otserver-web](https://github.com/rodviana/otserver-web) | Web do servidor OT (Java) |
-| [tibia](https://github.com/rodviana/tibia) | Scripts e configs do servidor |
+| [gestao-oficina](https://github.com/rodviana/gestao-oficina) | Gestão de oficina (Java) |
+| [calculadora-ipv4](https://github.com/rodviana/calculadora-ipv4) | Sub-redes IPv4 (Java) |
+| [minishell](https://github.com/rodviana/minishell) | Shell minimalista (Java) |
+| [Numero-Natural](https://github.com/rodviana/Numero-Natural) | POO em C++ |
+| [landing-page-nicole](https://github.com/rodviana/landing-page-nicole) | Landing page |
+| [rv-consultoria-ti](https://github.com/rodviana/rv-consultoria-ti) | Site consultoria (TypeScript) |
 
 </details>
 
 ---
 
-## GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rodviana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rodviana&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodviana&layout=compact&hide_border=true" alt="Top languages" />
-
----
-
-🇧🇷 Português (nativo) · 🇺🇸 Inglês (fluente)
+<p align="center">
+  <i>🇧🇷 Português (nativo) · 🇺🇸 Inglês (fluente)</i>
+</p>
