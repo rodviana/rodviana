@@ -23,7 +23,9 @@ Arquiteto na **Suit Pay**, com **4+ anos** liderando e construindo sistemas em f
 
 **Coca-Cola** — Sustentação e modernização de sistemas corporativos: integrações SAP ↔ Oracle, microsserviços e automação de cargas de dados.
 
-Formação: **Bacharelado em Ciência da Computação** — PUC Goiás (2019–2025) · 🇧🇷 Português nativo · 🇺🇸 Inglês fluente
+**PUC Goiás — Monitor de Algoritmos** — Apoio acadêmico em algoritmos e lógica de programação em C/C++, orientação de dúvidas, preparação de alunos para maratonas de programação.
+
+Formação: **Bacharelado em Ciência da Computação** — PUC Goiás (2019–2026) · 🇧🇷 Português nativo · 🇺🇸 Inglês fluente
 
 ---
 
